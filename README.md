@@ -4,5 +4,5 @@
 <ul>
   <li>plan my day</li>
   <li>stay motivated</li>
-  <li>eat healthy and</li>
+  <li>eat healthy</li>
   <li>just live a better life which is filled with enjoyment and no saddnes</li>
